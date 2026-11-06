@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm R. Ricci Khan.
 
-<!--
-**riarrkhan-dev/riarrkhan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economics & Computer Science student building at the intersection of computer science, economic modeling, and quantitative finance. Currently leveling up core software skills while exploring how math, data, and code drive market decisions. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Up To
+- Studying: Computer Science & Economics (Level 2)
+- Currently Learning: Networks, Data Structures, Computer Architecture, Enterprise Database Systems, Math for Economics
+- Interests: Software engineering, economic modeling, fintech, and data visualization
+- Next Goal: Building my first couple of side projects this semester
+
+---
+### Tech & Tools I'm Working With
+`Python` `SQL`
+
+---
+### Connect
+- Email: [riariccikhan@outlook.com](mailto:riariccikhan@outlook.com)
+
+*“Learning in public — open to collaborating on beginner-friendly open-source or study projects!”*
